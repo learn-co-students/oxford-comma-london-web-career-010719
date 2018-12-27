@@ -8,7 +8,6 @@ ending = array[array.length - 1]
 first_part = array[0..n].join(", ")
 message = first_part + " and "
 message += ending.to_s
-  
 end
 message
 end
